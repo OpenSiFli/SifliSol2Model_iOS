@@ -1,0 +1,6 @@
+framework module SifliSol2Model {
+  umbrella header "SifliSol2Model.h"
+  export *
+
+  module * { export * }
+}
